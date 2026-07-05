@@ -22,6 +22,11 @@
       <true/>
       <key>ApplicationFileName</key>
       <string>USt-Voranmeldung.txt</string>
+      <key>DateRanges</key>
+      <array>
+        <string>quarter</string>
+        <string>month</string>
+      </array>
     </dict>
     <key>copyright</key>
     <string>© 2020 Frederic Hemberger</string>
